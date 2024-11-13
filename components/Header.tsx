@@ -12,7 +12,7 @@ const Header = () => {
       >
         <View style={styles.userInfoWrapper}>
           <Image
-            source={{ uri: "https://i.pravatar.cc/250?u=12" }}
+            source={{ uri: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT5hVDt7jTMna6E-Q-KXcj315pKQN4jtuTPA&s" }}
             style={styles.userImg}
           />
           <View style={styles.userTxtWrapper}>
