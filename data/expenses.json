@@ -1,0 +1,26 @@
+[
+    {
+     "id": "1",
+     "name": "Necessidade",
+     "amount": "955.75",
+     "percentage": "61"
+    },
+    {
+     "id": "2",
+     "name": "Comida",
+     "amount": "300.55",
+     "percentage": "19"
+    },
+    {
+     "id": "3",
+     "name": "Remédios",
+     "amount": "200.95",
+     "percentage": "13"
+    },
+    {
+     "id": "4",
+     "name": "Variados",
+     "amount": "70.95",
+     "percentage": "5"
+    }
+   ]
